@@ -1,0 +1,5 @@
+{
+    "templates": {
+        "reason": "It is a {templatetype} template created for the {purposename} purpose."
+    }
+}
